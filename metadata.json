@@ -1,0 +1,7 @@
+{
+  "name": "RGPV Results",
+  "description": "RGPV Semester Result Scraper & Viewer with Voice Summary and Celebration Music",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
